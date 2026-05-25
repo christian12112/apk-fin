@@ -1,0 +1,6 @@
+{
+  "name": "x-core 1",
+  "description": "Chat inteligente impulsado por Gemini con dictado por voz avanzado, análisis de imágenes, reproducción de audio y sincronización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
